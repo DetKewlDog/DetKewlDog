@@ -5,4 +5,4 @@ Check out the game's progress here: https://youtube.com/channel/UCh6qnjRmjFu-V36
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detkewldog&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detkewldog)](https://github.com/anuraghazra/github-readme-stats)

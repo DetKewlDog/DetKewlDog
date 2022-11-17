@@ -1,5 +1,7 @@
 ### Hi, I'm DetKewlDog!
 
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/F7VQ2hwfyw) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@autumnfire_dev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/DetKewlDog)
+
 I am working on a 2D TopDown Survival game named Forgescape!
 Check out the game's progress here: https://youtube.com/channel/UCh6qnjRmjFu-V36GZOOgTNQ
 

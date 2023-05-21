@@ -9,4 +9,4 @@ Check out the game's progress here: https://youtube.com/@autumnfire_dev
 
 [![Join my Discord Server!](https://discordapp.com/api/guilds/877148912262197258/widget.png?style=banner2)](https://discord.gg/F7VQ2hwfyw)
 
-[![Top Langs](https://github-readme-stats-detkewldog.vercel.app/api/top-langs/?username=detkewldog&layout=donut-vertical&theme=nord&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-detkewldog.vercel.app/api/top-langs/?username=detkewldog&layout=donut&theme=nord&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)

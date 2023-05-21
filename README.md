@@ -5,7 +5,7 @@
 I am working on a 2D TopDown Adventure game named Forgescape!
 Check out the game's progress here: https://youtube.com/@autumnfire_dev
 
-[![My Skills](https://skillicons.dev/icons?i=cs,unity,py,cpp,c,js,html,css,vscode,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,py,cpp,c,js,html,css,replit)](https://skillicons.dev)
 
 [![Join my Discord Server!](https://discordapp.com/api/guilds/877148912262197258/widget.png?style=banner2)](https://discord.gg/F7VQ2hwfyw)
 

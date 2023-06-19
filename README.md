@@ -41,7 +41,7 @@ I'm a 17-year-old game developer, programmer and beginner guitarist! 💻🎸
 
 [![Learning Goals](https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,vite,rust,lua)](https://skillicons.dev)
 
-## 🔥 My Stats
+<hr>
 
 <img src="https://github-readme-stats-detkewldog.vercel.app/api/?username=detkewldog&theme=nord&count_private=true" alt="Stats"/>
 <img src="https://github-readme-stats-detkewldog.vercel.app/api/top-langs/?username=detkewldog&layout=donut&theme=nord&count_private=true&langs_count=10" alt="Top Lang" />

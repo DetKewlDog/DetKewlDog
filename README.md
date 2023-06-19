@@ -1,23 +1,47 @@
-# Hi, I'm DetKewlDog! 👋
+<div id="header" align="center">
+  <img src="https://imgur.com/hgYteMU.png" width="200" />
+  <div id="badges">
+    <a href="https://discord.gg/F7VQ2hwfyw">
+      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    </a>
+    <a href="https://youtube.com/@autumnfire_dev">
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+    </a>
+    <a href="https://www.reddit.com/u/DetKewlDog">
+      <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+    </a>
+    <a href="https://steamcommunity.com/id/DetKewlDog">
+      <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+    </a>
+  </div>
+  <a href="https://discord.gg/F7VQ2hwfyw">
+    <img src="https://discordapp.com/api/guilds/877148912262197258/widget.png?style=banner2" alt="Join my Discord Server"/>
+  </a> <br />
+  <img src="https://komarev.com/ghpvc/?username=DetKewlDog&style=flat-square&color=orange" alt=""/>
+  <h1>
+    Hey there, I'm DetKewlDog! 👋
+  </h1>
+</div>
 
-I'm a 17 y/o gamedev and programmer. I'm a C#, C++, Python and JavaScript enthusiast. 
+I'm a 17-year-old game developer, programmer and beginner guitarist! 💻🎸
+- I have a passion for C#, C++, Python, and JavaScript.
+- I'm currently focused on learning JavaScript frameworks and game development using Unity.
+- I'm actively working on a 2D Top-Down Adventure game called Forgescape! Check out the game's progress on [my YouTube channel!](https://youtube.com/@autumnfire_dev)
 
-Currently learning JS frameworks and developing games in Unity.
+## 💼 My Skills
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/F7VQ2hwfyw) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@autumnfire_dev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/DetKewlDog) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/DetKewlDog)
+[![Skills](https://skillicons.dev/icons?i=cs,unity,py,flask,cpp,c,react,nodejs,js,html,css)](https://skillicons.dev)
 
-I am working on a 2D TopDown Adventure game named Forgescape!
-[Check out the game's progress here](https://youtube.com/@autumnfire_dev)
+## 🛠️ My Go-To Tools and Services
 
-### My skillset
-[![My Langs](https://skillicons.dev/icons?i=cs,unity,py,flask,cpp,c,react,nodejs,js,html,css)](https://skillicons.dev)
+[![Tools and Services](https://skillicons.dev/icons?i=vscode,visualstudio,replit,netlify,supabase)](https://skillicons.dev)
 
-### My go-to softwares/services
-[![Things I use](https://skillicons.dev/icons?i=vscode,visualstudio,replit,netlify,supabase)](https://skillicons.dev)
+## 🚀 Things I'd Like to Learn
 
-### Things I want to learn
-[![Things I use](https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,vite,rust)](https://skillicons.dev)
+[![Learning Goals](https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,vite,rust)](https://skillicons.dev)
 
-[![Join my Discord Server!](https://discordapp.com/api/guilds/877148912262197258/widget.png?style=banner2)](https://discord.gg/F7VQ2hwfyw)
+## 🔥 My Stats
 
 [![Top Langs](https://github-readme-stats-detkewldog.vercel.app/api/top-langs/?username=detkewldog&layout=donut&theme=nord&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)

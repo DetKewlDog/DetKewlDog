@@ -25,7 +25,7 @@
 <br />
 
 I'm a 17-year-old game developer, programmer and beginner guitarist! 💻🎸
-- I am a passionate C#, C++, Python, and JavaScript programmer.
+- I'm a passionate C#, C++, Python, and JavaScript programmer.
 - I'm currently focused on learning JavaScript frameworks and game development using Unity.
 - I'm actively working on a 2D Top-Down Adventure game called Forgescape! Check out the game's progress on [my YouTube channel!](https://youtube.com/@autumnfire_dev)
 

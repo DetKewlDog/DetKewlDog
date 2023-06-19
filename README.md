@@ -1,5 +1,8 @@
 <div id="header" align="center">
-  <img src="https://imgur.com/hgYteMU.png" width="200" />
+  <img src="https://imgur.com/hgYteMU.png" width="100" />
+  <h1>
+    Hey there, I'm DetKewlDog! 👋
+  </h1>
   <div id="badges">
     <a href="https://discord.gg/F7VQ2hwfyw">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
@@ -18,10 +21,9 @@
     <img src="https://discordapp.com/api/guilds/877148912262197258/widget.png?style=banner2" alt="Join my Discord Server"/>
   </a> <br />
   <img src="https://komarev.com/ghpvc/?username=DetKewlDog&style=flat-square&color=orange" alt=""/>
-  <h1>
-    Hey there, I'm DetKewlDog! 👋
-  </h1>
 </div>
+
+<br />
 
 I'm a 17-year-old game developer, programmer and beginner guitarist! 💻🎸
 - I have a passion for C#, C++, Python, and JavaScript.

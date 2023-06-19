@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://imgur.com/hgYteMU.png" width="100" />
   <h1>
     Hey there, I'm DetKewlDog! 👋
   </h1>

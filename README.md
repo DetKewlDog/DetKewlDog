@@ -39,7 +39,7 @@ I'm a 17-year-old game developer, programmer and beginner guitarist! 💻🎸
 
 ## 🚀 Things I'd Like to Learn
 
-[![Learning Goals](https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,vite,rust)](https://skillicons.dev)
+[![Learning Goals](https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,vite,rust,lua)](https://skillicons.dev)
 
 ## 🔥 My Stats
 

@@ -36,16 +36,16 @@
     I'm actively working on a 2D Top-Down Adventure game called Forgescape!<br>Check out the game's progress on <a href="https://youtube.com/@autumnfire_dev">my YouTube channel!</a><br>
   </p>
   
-  <h2 id="my-skills">💼 My Skills</h2>
+  <h2 id="my-skills">💼 My Skills 💼</h2>
   <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,unity,py,flask,cpp,c,react,nodejs,js,html,css" alt="Skills"></a></p>
   
-  <h2 id="my-go-to-tools-and-services">🛠️ My Go-To Tools and Services</h2>
+  <h2 id="my-go-to-tools-and-services">🛠️ My Go-To Tools and Services 🛠️</h2>
   <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,netlify,supabase" alt="Tools and Services"></a></p>
   
-  <h2 id="things-i-d-like-to-learn">🚀 Things I'd Like to Learn</h2>
+  <h2 id="things-i-d-like-to-learn">🚀 Things I'd Like to Learn 🚀</h2>
   <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,vite,rust,lua" alt="Learning Goals"></a></p>
 
-  <h2 id="my-stats">🔥 My Stats</h2>
+  <h2 id="my-stats">🔥 My Stats 🔥</h2>
 
   <img src="https://github-readme-stats-detkewldog.vercel.app/api/top-langs/?username=detkewldog&layout=donut&theme=nord&count_private=true&langs_count=10" alt="Top Lang" />
 </div>

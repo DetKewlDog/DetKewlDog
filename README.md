@@ -16,6 +16,7 @@
       <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
     </a>
   </div>
+  <br>
   <a href="https://discord.gg/F7VQ2hwfyw">
     <img src="https://discordapp.com/api/guilds/877148912262197258/widget.png?style=banner2" alt="Join my Discord Server"/>
   </a>

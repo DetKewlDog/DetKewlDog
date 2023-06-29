@@ -3,21 +3,21 @@
     Hey there, I'm DetKewlDog! 👋
   </h1>
   <div id="badges">
-    <a href="https://discord.gg/F7VQ2hwfyw">
+    <a href="https://discord.gg/F7VQ2hwfyw" target="_blank">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
-    <a href="https://youtube.com/@autumnfire_dev">
+    <a href="https://youtube.com/@autumnfire_dev" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
     </a>
-    <a href="https://www.reddit.com/u/DetKewlDog">
+    <a href="https://www.reddit.com/u/DetKewlDog" target="_blank">
       <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
     </a>
-    <a href="https://steamcommunity.com/id/DetKewlDog">
+    <a href="https://steamcommunity.com/id/DetKewlDog" target="_blank">
       <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
     </a>
   </div>
   <br>
-  <a href="https://discord.gg/F7VQ2hwfyw">
+  <a href="https://discord.gg/F7VQ2hwfyw" target="_blank">
     <img src="https://discordapp.com/api/guilds/877148912262197258/widget.png?style=banner2" alt="Join my Discord Server"/>
   </a>
   
@@ -38,13 +38,13 @@
   </p>
   
   <h2 id="my-skills">💼 My Skills 💼</h2>
-  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,unity,py,flask,cpp,c,react,nodejs,js,html,css" alt="Skills"></a></p>
+  <p><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=cs,unity,py,flask,cpp,c,react,nodejs,js,html,css" alt="Skills"></a></p>
   
   <h2 id="my-go-to-tools-and-services">🛠️ My Go-To Tools and Services 🛠️</h2>
-  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,netlify,supabase" alt="Tools and Services"></a></p>
+  <p><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,netlify,supabase" alt="Tools and Services"></a></p>
   
   <h2 id="things-i-d-like-to-learn">🚀 Things I'd Like to Learn 🚀</h2>
-  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,vite,lua" alt="Learning Goals"></a></p>
+  <p><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,vite,lua" alt="Learning Goals"></a></p>
 
   <h2 id="my-stats">🔥 My Stats 🔥</h2>
 

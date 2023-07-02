@@ -38,7 +38,7 @@
   </p>
   
   <h2 id="my-skills">💼 My Skills 💼</h2>
-  <p><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=cs,unity,py,flask,cpp,c,react,nodejs,js,html,css" alt="Skills"></a></p>
+  <p><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=cs,unity,py,flask,cpp,c,react,nodejs,js,html,css,vite" alt="Skills"></a></p>
   
   <h2 id="my-go-to-tools-and-services">🛠️ My Go-To Tools and Services 🛠️</h2>
   <p><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,netlify,supabase" alt="Tools and Services"></a></p>

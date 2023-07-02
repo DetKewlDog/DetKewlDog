@@ -44,7 +44,7 @@
   <p><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,netlify,supabase" alt="Tools and Services"></a></p>
   
   <h2 id="things-i-d-like-to-learn">🚀 Things I'd Like to Learn 🚀</h2>
-  <p><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,vite,lua" alt="Learning Goals"></a></p>
+  <p><a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,lua" alt="Learning Goals"></a></p>
 
   <h2 id="my-stats">🔥 My Stats 🔥</h2>
 

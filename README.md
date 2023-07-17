@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-    Hey there, I'm DetKewlDog! 👋
+    Hey there, I'm Bar! 👋
   </h1>
   <div id="badges">
     <a href="https://discord.gg/F7VQ2hwfyw" target="_blank">

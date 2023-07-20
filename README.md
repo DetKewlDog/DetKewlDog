@@ -84,5 +84,6 @@
   </header>
 
   <img src="https://github-readme-stats-detkewldog.vercel.app/api/top-langs/?username=detkewldog&layout=donut&theme=nord&count_private=true&langs_count=10" 
-    alt="My Stats">
+    alt="My Stats"
+    style="width: 350px; height: 375px">
 </div>

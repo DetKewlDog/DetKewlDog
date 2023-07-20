@@ -55,8 +55,7 @@
   <p>
     <a href="https://skillicons.dev" target="_blank">
       <img src="https://skillicons.dev/icons?i=cs,unity,py,flask,cpp,c,react,nodejs,js,html,css,vite" 
-        alt="My Skills"
-        style="height: 48px">
+        alt="My Skills">
     </a>
   </p>
   
@@ -66,8 +65,7 @@
   <p>
     <a href="https://skillicons.dev" target="_blank">
       <img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,netlify,supabase" 
-        alt="My Go-To Tools and Services"
-        style="height: 48px">
+        alt="My Go-To Tools and Services">
     </a>
   </p>
   
@@ -77,8 +75,7 @@
   <p>
     <a href="https://skillicons.dev" target="_blank">
       <img src="https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,lua" 
-        alt="Things I'd Like to Learn"
-        style="height: 48px">
+        alt="Things I'd Like to Learn">
     </a>
   </p>
 
@@ -87,6 +84,5 @@
   </header>
 
   <img src="https://github-readme-stats-detkewldog.vercel.app/api/top-langs/?username=detkewldog&layout=donut&theme=nord&count_private=true&langs_count=10" 
-    alt="My Stats"
-    style="width: 350px; height: 375px">
+    alt="My Stats">
 </div>

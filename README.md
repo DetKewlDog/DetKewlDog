@@ -30,7 +30,7 @@
   <a href="https://discord.gg/F7VQ2hwfyw" target="_blank">
     <img src="https://discordapp.com/api/guilds/877148912262197258/widget.png?style=banner2" 
       alt="Join my Discord Server" 
-      style="width: 320px; height: 76px">
+      style="width: 640px; height: 152px">
   </a>
   
   <br>

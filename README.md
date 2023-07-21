@@ -26,15 +26,15 @@
         style="width: 87.25px; height: 28px">
     </a>
   </div>
-  <br>
+<!--  <br>
   <a href="https://discord.gg/F7VQ2hwfyw" target="_blank">
     <img src="https://discordapp.com/api/guilds/877148912262197258/widget.png?style=banner2" 
       alt="Join my Discord Server" 
       style="width: 320px; height: 76px">
   </a>
+  <br>
+  <br>-->
   
-  <br>
-  <br>
   <br>
   
   <p>I'm a 17-year-old game developer, programmer and beginner guitarist! 💻🎸</p>

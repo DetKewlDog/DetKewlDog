@@ -74,7 +74,7 @@
   </header>
   <p>
     <a href="https://skillicons.dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,lua" 
+      <img src="https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,lua,godot" 
         alt="Things I'd Like to Learn">
     </a>
   </p>

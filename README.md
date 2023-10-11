@@ -15,15 +15,15 @@
         alt="Link to YouTube"
         style="width: 105.75px; height: 28px">
     </a>
-    <a href="https://www.reddit.com/u/DetKewlDog" target="_blank">
-      <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" 
-        alt="Link to Reddit"
-        style="width: 94.5px; height: 28px">
+    <a href="https://twitter.com/DetKewlDog" target="_blank">
+      <img src="https://img.shields.io/badge/x%20%2F%20twitter-%23121011.svg?style=for-the-badge&logo=x&logoColor=white" 
+        alt="Link to X / Twitter"
+        style="width: 130.75px; height: 28px">
     </a>
-    <a href="https://steamcommunity.com/id/DetKewlDog" target="_blank">
-      <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" 
-        alt="Link to Steam"
-        style="width: 87.25px; height: 28px">
+    <a href="https://www.linkedin.com/in/bar-goldenstein-747602295/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+        alt="Link to LinkedIn"
+        style="width: 111px; height: 28px">
     </a>
   </div>
 <!--  <br>

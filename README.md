@@ -40,7 +40,7 @@
   <p>I'm a 17-year-old game developer, programmer and beginner guitarist! 💻🎸</p>
   
   <p>
-    I'm a passionate C#, C++, Python, and JavaScript programmer.
+    I'm a passionate C#, C++, Python, and TS/JS programmer.
   </p>
   <p>
     I'm currently focused on learning JavaScript frameworks and game development using Unity.
@@ -50,33 +50,43 @@
   </p>
   
   <header>
-    <h2 id="my-skills">💼 My Skills 💼</h2>
+  	<h2 id="my-skills">💼 My Toolset 💼</h2>
   </header>
   <p>
-    <a href="https://skillicons.dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=cs,unity,py,flask,cpp,c,react,nodejs,js,html,css,vite" 
-        alt="My Skills">
-    </a>
+  	<a href="https://skillicons.dev" target="_blank">
+  		<img src="https://skillicons.dev/icons?i=cs,unity,py,flask,cpp" 
+  			alt="My Skills 1"><br />
+  		<img src="https://skillicons.dev/icons?i=c,react,nodejs,ts,js" 
+  			alt="My Skills 2"><br />
+  		<img src="https://skillicons.dev/icons?i=html,css,nextjs,tailwind,vite" 
+  			alt="My Skills 3"><br />
+  		<img src="https://skillicons.dev/icons?i=linux,bash" 
+  			alt="My Skills 4"><br />
+  	</a>
   </p>
   
   <header>
-    <h2 id="my-go-to-tools-and-services">🛠️ My Go-To Tools and Services 🛠️</h2>
+  	<h2 id="my-go-to-tools-and-services">🛠️ My Go-To Tools and Services 🛠️</h2>
   </header>
   <p>
-    <a href="https://skillicons.dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,replit,netlify,supabase" 
-        alt="My Go-To Tools and Services">
-    </a>
+  	<a href="https://skillicons.dev" target="_blank">
+  		<img src="https://skillicons.dev/icons?i=vscode,supabase,mongodb" 
+  			alt="My Go-To Tools and Services 1"><br />
+  		<img src="https://skillicons.dev/icons?i=prisma,github,azure" 
+  			alt="My Go-To Tools and Services 2"><br />
+  	</a>
   </p>
   
   <header>
-    <h2 id="things-i-d-like-to-learn">🚀 Things I'd Like to Learn 🚀</h2>
+  	<h2 id="my-skills">🚀 Things I'd Like to Learn 🚀</h2>
   </header>
   <p>
-    <a href="https://skillicons.dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=svelte,nextjs,linux,raspberrypi,ts,vim,lua,godot" 
-        alt="Things I'd Like to Learn">
-    </a>
+  	<a href="https://skillicons.dev" target="_blank">
+  		<img src="https://skillicons.dev/icons?i=svelte,raspberrypi,vim,lua" 
+  			alt="Things I'd Like to Learn 1"><br />
+  		<img src="https://skillicons.dev/icons?i=godot,tauri,electron" 
+  			alt="Things I'd Like to Learn 2"><br />
+  	</a>
   </p>
 
   <header>

@@ -37,7 +37,7 @@
   
   <br>
   
-  <p>I'm an 18-year-old game developer & fullstack developer!</p>
+  <p>I'm an 19-year-old game developer & fullstack developer!</p>
   
   <p>
     I'm a passionate C#, C++, Python, and TS/JS programmer.

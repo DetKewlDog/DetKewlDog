@@ -60,7 +60,7 @@
   			alt="My Skills 2"><br />
   		<img src="https://skillicons.dev/icons?i=html,css,nextjs,tailwind,vite" 
   			alt="My Skills 3"><br />
-  		<img src="https://skillicons.dev/icons?i=linux,bash" 
+  		<img src="https://skillicons.dev/icons?i=linux,bash,svelte,elasticsearch,lua" 
   			alt="My Skills 4"><br />
   	</a>
   </p>
@@ -82,9 +82,9 @@
   </header>
   <p>
   	<a href="https://skillicons.dev" target="_blank">
-  		<img src="https://skillicons.dev/icons?i=svelte,raspberrypi,vim,lua" 
+  		<img src="https://skillicons.dev/icons?i=electron,raspberrypi,vim" 
   			alt="Things I'd Like to Learn 1"><br />
-  		<img src="https://skillicons.dev/icons?i=godot,tauri,electron" 
+  		<img src="https://skillicons.dev/icons?i=godot,tauri" 
   			alt="Things I'd Like to Learn 2"><br />
   	</a>
   </p>

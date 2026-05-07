@@ -37,16 +37,10 @@
   
   <br>
   
-  <p>I'm an 19-year-old game developer & fullstack developer!</p>
+  <p>Israeli Full-stack Developer, Cybersecurity Specialist and Game Developer.</p>
   
   <p>
-    I'm a passionate C#, C++, Python, and TS/JS programmer.
-  </p>
-  <p>
-    I'm currently focused on learning JavaScript frameworks and game development using Unity.
-  </p>
-  <p>
-    I'm actively working on a 2D Top-Down Adventure game called Forgescape!<br>Check out the game's progress on <a href="https://youtube.com/@autumnfire_dev">my YouTube channel!</a><br>
+    Experienced in full-stack development using SvelteKit/Next.js, as well as software development using JS/TS, Python, C++ and C#.
   </p>
   
   <header>
